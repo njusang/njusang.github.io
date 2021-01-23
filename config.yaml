@@ -38,7 +38,7 @@ params:
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
   feedlinks: true
-  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  footer: "Powered by [Hugo](https://gohugo.io/), the [Zen theme](https://github.com/frjo/hugo-theme-zen) and [GitHub](https://github.com/njusang/njusang.github.io)."
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
   imageMaxWidth: 400
