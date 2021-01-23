@@ -1,8 +1,9 @@
 ---
-title: "Hugo Zen theme"
-baseURL: "https://example.org/"
+title: "Yuxia's Blog"
+baseURL: "https://njusang.github.io"
 theme: "zen"
 languageCode: "en-GB"
+enableGitInfo: true
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
