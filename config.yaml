@@ -14,6 +14,11 @@ author:
   name: "Your Name"
   url: "https://example.org/somepage"
   avatar: "path/to/some-image.jpg"
+hasCJKLanguage: true
+taxonomies:
+  category: categories
+  tag: tags
+
 
 outputFormats:
   SearchIndex:
